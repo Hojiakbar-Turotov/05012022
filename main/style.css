@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Gelasio&display=swap");
+* {
+  font-family: "Gelasio", serif;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.br-1 {
+  border-radius: 1rem;
+}
+
+body {
+  background-color: #f8f8f8;
+}
+
+/*# sourceMappingURL=style.css.map */
